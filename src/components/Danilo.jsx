@@ -1,6 +1,6 @@
 const Danilo = () => {
   return (
-     <article className="bg-white rounded-md overflow-hidden ligthTheme darkTheme">
+     <article className="danilo rounded-md overflow-hidden ligthTheme darkTheme">
         {/* seccion superior de  mi card*/}
         <header className="h-[160px] ligthTheme">
             <img className="h-full w-full object-cover object-center" src="/danilo.jpg" alt="" />
