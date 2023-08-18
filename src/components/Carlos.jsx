@@ -1,6 +1,9 @@
 const Carlos = () => {
   return (
-    <div>Carlos</div>
+    <div>
+      <h1>Carlos Alcantara</h1>
+      <img src="/images/carlos.png" alt="" />
+    </div>
   )
 }
 export default Carlos
